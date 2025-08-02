@@ -2,6 +2,8 @@
 
 A full-stack job portal built with the MERN stack (MongoDB, Express, React, Node.js) that allows users to register as **Job Seekers** or **Recruiters**, post and apply for jobs, upload resumes and profile photos using **Cloudinary**, and manage their job applications through an intuitive dashboard.
 
+Deployed Link: https://job-portal-sable-eight.vercel.app/ 
+
 ---
 
 ## 🚀 Features
